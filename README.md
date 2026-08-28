@@ -4,11 +4,11 @@
 
 I bridge the gap between high-throughput molecular diagnostics and actionable biological insights. My work focuses on automating workflows, processing long-read sequencing data, and writing clean, reproducible scripts for genomic epidemiology and clinical diagnostics. 
 
-* 🧬 **Research Focus:** Microbial genomics, infectious disease diversity (*S. aureus*, *Klebsiella*), and clinical assay automation.
-* 🧪 **Data Ecosystems:** Expert in wrangling Oxford Nanopore (Epi2me) extractions and automated liquid handler diagnostics (Tecan/Qiasymphony workflows).
-* 🛠️ **Core Stack:** R (Tidyverse, Bioconductor), Python, Bash, Git/GitHub.
+*  **Research Focus:** Microbial genomics, infectious disease diversity (*S. aureus*, *Klebsiella*), and clinical assay automation.
+*  **Data Ecosystems:** Expert in wrangling Oxford Nanopore (Epi2me) extractions and automated liquid handler diagnostics (Tecan/Qiasymphony workflows).
+* **Core Stack:** R (Tidyverse, Bioconductor), Python, Bash, Git/GitHub.
 
-### 🔬 Featured Projects & Repositories
+###  Featured Projects & Repositories
 
 * **[MDx-ANALYTICS](https://github.com/sulayman-sowe/MDx-ANALYTICS)**
 Custom analytics pipelines for molecular diagnostics data processing, optimization, and assay interpretation.
@@ -19,7 +19,7 @@ Data processing and genomic epidemiology pipelines tracking bacterial population
 * **[SAUREUS-MANUSCRIPT_01-FIGURES](https://github.com/sulayman-sowe/SAUREUS-MANUSCRIPT_01-FIGURES)**
 A fully reproducible workflow generating publication-ready figures directly from raw biological datasets.
 
-### 📊 Technical Toolbox
+###  Technical Toolbox
 
 
 ****Languages****
@@ -31,7 +31,7 @@ Oxford Nanopore EPI2ME parsing, Genotyping, Microbial Assembly pipelines
 ****Workflows****
 Git version control, Automated log parsing, Manuscript reproducibility
 
-### 📬 Let's Connect!
+### Let's Connect!
 
-* 📧 Email: ssulayman636@gmail.com
-* 🏢 GitHub: [@sulayman-sowe](https://github.com/sulayman-sowe)
+*  Email: ssulayman636@gmail.com
+*  GitHub: [@sulayman-sowe](https://github.com/sulayman-sowe)
