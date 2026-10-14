@@ -1,6 +1,6 @@
 # Sulayman Sowe 
 
-# Computational Biologist | Bioinformatician | Data Wrangler
+# Computational Biologist | Bioinformatician | Microbial Genomics
 
 I bridge the gap between genomic research and biological insights. 
 My work focuses on automating workflows, processing long-read sequencing data, and writing reproducible scripts for genomic surveillance and clinical diagnostics. 
