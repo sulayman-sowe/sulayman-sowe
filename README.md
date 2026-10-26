@@ -3,7 +3,7 @@
 # Computational Biologist | Bioinformatician | Microbial Genomics
 
 I bridge the gap between genomic research and biological insights. 
-My work focuses on automating workflows, processing long-read sequencing data, and writing reproducible scripts for genomic surveillance and clinical diagnostics. 
+My work focuses on pipeline optimization, data wrangling, and statistical modelling. 
 
 *  **Research Focus:** Pathogen genomics and clinical assay automation.
 *  **Data Ecosystems:** Expert in wrangling Oxford Nanopore (Epi2me) extractions and automated DNA extraction platforms (Tecan/Qiasymphony workflows).
