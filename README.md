@@ -2,7 +2,7 @@
 
 # Computational Biologist | Bioinformatician | Microbial Genomics
 
-I bridge the gap between genomic research and biological insights. 
+I use computational analyses to bridge the gap between genomic research and biological insights. 
 My work focuses on pipeline optimization, data wrangling, and statistical modelling. 
 
 *  **Research Focus:** Pathogen genomics and clinical assay automation.
